@@ -1,0 +1,141 @@
+.wrapper{
+    width: 300px;
+    height: 584px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding-block: 30px;
+    background-color: rgb(254, 197, 254);
+}
+
+.Post{
+    margin-left:20%;
+    margin-top: -3%;
+}
+.like{
+    margin-top: 0%;
+    font-size: 10px;
+}
+.cmt{
+    margin-top: -10%;
+    margin-left: 40px;
+}
+.emoji-text{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20%;
+  
+}
+.A{
+    margin-top: -9%;
+    margin-left: 2%;
+}
+.user_date{
+    font-size: 10px;
+    margin-left: 20%;
+}
+.name_user, date_user, option_user{
+    margin-top: -20%;
+
+}
+.date_user{
+    margin-top: -5%;
+}
+.option_user{
+    margin-top: -5%;
+    color: red;
+}
+.emoji-sad {
+    margin-top: 5%;
+}
+.option{
+    display: flex;
+    justify-content: space-between;
+}
+.img-small1{
+    margin-top: 0%;
+}
+.img-small2{
+    margin-left: 14%;
+    margin-top: -8%;
+}
+.img-small3{
+    margin-left: 26%;
+    margin-top: -8.2%;
+}
+.img-small4{
+    margin-left: 90%;
+    margin-top: -7%;
+}
+.img-small5{
+    margin-left: 82%;
+    margin-top: -7%;
+}
+.img-small6{
+    margin-left: 74%;
+    margin-top: -7%;
+}
+.img-small7{
+    margin-left: 10%;
+    margin-top: -12%;
+}
+.img-small8{
+    margin-left: 30%;
+    margin-top: -12%;
+}
+.img-small9{
+    margin-left: 50%;
+    margin-top: -12%;
+}
+.img-small10{
+    margin-left: 70%;
+    margin-top: -12%;
+}
+.img-small12{
+    margin-left: 4%;
+    margin-top: -8%;
+}
+.img-small11{
+    margin-left:90%;
+    margin-top: -8%;
+}
+.B{
+    width: 300px;
+    height: 30px;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+.Design1{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    padding-left: 2px;
+    margin-top: 2%;
+
+}
+.write_post{
+    padding-block: 10px;
+}
+.Design2{
+    width: 300px;
+    height: 150px;
+}
+.Design3{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    padding-left: 2px;
+}
+.Design4{
+    width: 300px;
+    height: 208px;
+    border-radius: 15px;
+    margin-top: -3%; 
+}
+.Design5{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    margin-top: -8%;
+    margin-left: 12%;
+}
